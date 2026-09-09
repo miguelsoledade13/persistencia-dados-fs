@@ -1,0 +1,33 @@
+{
+  "name": "persistencia-dados-fs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "tsx watch src/app.ts",
+    "build": "tsc",
+    "start": "node dist/app.ts"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/miguelsoledade13/persistencia-dados-fs.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/miguelsoledade13/persistencia-dados-fs/issues"
+  },
+  "homepage": "https://github.com/miguelsoledade13/persistencia-dados-fs#readme",
+  "devDependencies": {
+    "@types/express": "^5.0.6",
+    "@types/node": "^26.5.0",
+    "tsx": "^4.23.13",
+    "typescript": "^7.0.2"
+  },
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}

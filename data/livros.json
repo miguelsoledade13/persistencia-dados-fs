@@ -1,0 +1,23 @@
+[
+  {
+    "titulo": "Phantom Blood",
+    "autor": "Hirohiko Araki",
+    "genero": "ação, aventura, fantasia",
+    "ano": 1986,
+    "lido": true
+  },
+  {
+    "titulo": "Steel Ball Run",
+    "autor": "Hirohiko Araki",
+    "genero": "ação, aventura, faroeste, corrida",
+    "ano": 2004,
+    "lido": false
+  },
+  {
+    "titulo": "Golden Wind",
+    "autor": "Hirohiko Araki",
+    "genero": "ação, aventura, drama, crime",
+    "ano": 1995,
+    "lido": false
+  }
+]
